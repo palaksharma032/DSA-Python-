@@ -196,8 +196,8 @@ In-depth notes with intuition, dry runs, edge cases, and interview Q&A:
 
 | Problem | Pattern | Notes |
 |---|---|---|
-| Binary Search | Detailed Notes | [Read notes](./Binary_Search.md) |
-| 704. Binary Search | Classic template | [Read notes](./704_Binary_Search/Readme.md) |
+| Binary Search | Detailed Notes | [Read notes](Binary Search/.md) |
+| 704. Binary Search | Classic template | [Read notes](Binary Search/704_Binary_Search/Readme.md) |
 | 35. Search Insert Position | Lower bound | [Read notes](./35_Search_Insert_Position/Readme.md) |
 
 ### Suggested order to revise
