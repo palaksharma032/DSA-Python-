@@ -173,8 +173,8 @@ Based on the LeetCode **Binary Search** study plan. Add your solution links in t
 
 | # | Problem | Difficulty | Pattern | Solution |
 |---|---|---|---|---|
-| 704 | Binary Search | Easy | Plain search | [Python](./704_binary_search.py) · [📝 Notes](./704_Binary_Search.md) |
-| 35 | Search Insert Position | Easy | Lower bound | [Python](./35_search_insert_position.py) · [📝 Notes](./35_Search_Insert_Position.md) |
+| 704 | Binary Search | Easy | Plain search | [Python](./704_binary_search.py) · [📝 Notes](./704_Binary_Search/Readme.md) |
+| 35 | Search Insert Position | Easy | Lower bound | [Python](./35_search_insert_position.py) · [📝 Notes](./35_Search_Insert_Position/Readme.md) |
 | 278 | First Bad Version | Easy | Search on answer | [Python](./278_first_bad_version.py) |
 | 69 | Sqrt(x) | Easy | Search on answer | [Python](./69_sqrt_x.py) |
 | 367 | Valid Perfect Square | Easy | Search on answer | [Python](./367_valid_perfect_square.py) |
@@ -196,8 +196,8 @@ In-depth notes with intuition, dry runs, edge cases, and interview Q&A:
 
 | Problem | Pattern | Notes |
 |---|---|---|
-| Binary Search | Detailed Notes | [Read notes](Binary Search/.md) |
-| 704. Binary Search | Classic template | [Read notes](Binary Search/704_Binary_Search/Readme.md) |
+| Binary Search | Detailed Notes | [Read notes](./Binary_Search_Notes.md) |
+| 704. Binary Search | Classic template | [Read notes](./704_Binary_Search/Readme.md) |
 | 35. Search Insert Position | Lower bound | [Read notes](./35_Search_Insert_Position/Readme.md) |
 
 ### Suggested order to revise
