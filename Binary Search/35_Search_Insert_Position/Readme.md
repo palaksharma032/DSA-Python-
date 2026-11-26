@@ -326,8 +326,8 @@ Finding the position is O(log n), but inserting into a Python list is O(n) becau
 
 ## 🔗 Related Problems
 
-- [704. Binary Search](./704_Binary_Search.md)
-- [34. Find First and Last Position of Element in Sorted Array](./34_first_last_position.py)
-- [278. First Bad Version](./278_first_bad_version.py)
+- [704. Binary Search](./704_Binary_Search/Readme.md)
+- [34. Find First and Last Position of Element in Sorted Array](./34_first_last_position/Readme.md)
+- [278. First Bad Version](./278_first_bad_version/Readme.md)
 
-[⬅️ Back to Binary Search README](./README.md)
+[⬅️ Back to Binary Search README](./Readme.md)
