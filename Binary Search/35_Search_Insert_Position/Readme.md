@@ -329,6 +329,6 @@ Finding the position is O(log n), but inserting into a Python list is O(n) becau
 - [704. Binary Search](./704_Binary_Search.md)
 - [34. Find First and Last Position of Element in Sorted Array](./34_first_last_position.py)
 - [278. First Bad Version](./278_first_bad_version.py)
-- 744. Find Smallest Letter Greater Than Target
+- [744. Find Smallest Letter Greater Than Target]
 
 [⬅️ Back to Binary Search README](./README.md)
